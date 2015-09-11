@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VDDA Pin=U14-1
+Removed Pin From Net: NetName=GND Pin=U14-4
+Change Component DesignItemId : Designator=U14 Old DesignItemId=LP38690DT New DesignItemId=LP2980
+Change Component Footprint: Designator=U14 Old Footprint=TO252-3N New Footprint=SOT23-5BN
+Change Component Comment : Designator=U14 Old Comment=LP38690DT New Comment=LP2980
+Added Pin To Net: NetName=NetC32_2 Pin=U14-1
+Added Pin To Net: NetName=GND Pin=U14-2
+Added Pin To Net: NetName=VDDA Pin=U14-5

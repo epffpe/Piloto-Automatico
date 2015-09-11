@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=GND Pin=P8-0
+Removed Pin From Net: NetName=GND Pin=P8-0
+Change Component DesignItemId : Designator=P8 Old DesignItemId=SMA2 New DesignItemId=UFL
+Change Component Footprint: Designator=P8 Old Footprint=SMAL22 New Footprint=UFL
+Change Component Comment : Designator=P8 Old Comment=SMA2 New Comment=UFL
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-2

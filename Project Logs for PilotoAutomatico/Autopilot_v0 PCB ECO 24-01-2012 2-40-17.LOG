@@ -1,0 +1,13 @@
+Added Component: Designator=U28(LGA80P500X300-14N)
+Added Pin To Net: NetName=3V3 Pin=U28-1
+Added Pin To Net: NetName=GND Pin=U28-2
+Added Pin To Net: NetName=GND Pin=U28-4
+Added Pin To Net: NetName=GND Pin=U28-5
+Added Pin To Net: NetName=3V3 Pin=U28-6
+Added Pin To Net: NetName=3V3 Pin=U28-7
+Added Pin To Net: NetName=ACC_INT1 Pin=U28-8
+Added Pin To Net: NetName=ACC_INT2 Pin=U28-9
+Added Pin To Net: NetName=GND Pin=U28-12
+Added Pin To Net: NetName=SDA1 Pin=U28-13
+Added Pin To Net: NetName=SCL1 Pin=U28-14
+Added Member To Class: ClassName=Sensores Member=Component U28 ADXL345

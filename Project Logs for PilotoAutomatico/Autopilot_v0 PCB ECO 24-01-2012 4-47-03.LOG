@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=\RESET Pin=RST13-2
+Removed Pin From Net: NetName=\RESET Pin=RST17-2
+Removed Member From Class: ClassName=Comunicaciones Member=RST13
+Removed Member From Class: ClassName=Comunicaciones Member=RST17
+Added Pin To Net: NetName=\RESET Pin=Q3-3
+Added Pin To Net: NetName=\RESET Pin=Q4-3

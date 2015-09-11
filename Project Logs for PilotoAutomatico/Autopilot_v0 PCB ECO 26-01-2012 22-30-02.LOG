@@ -1,0 +1,8 @@
+Added Component: Designator=C27(TC7360-2924)
+Added Component: Designator=C29(TC7360-2924)
+Added Pin To Net: NetName=NetC26_2 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=6V Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Member To Class: ClassName=Power Member=Component C27 Cap Pol2
+Added Member To Class: ClassName=Power Member=Component C29 Cap Pol2
